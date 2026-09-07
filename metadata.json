@@ -1,0 +1,6 @@
+{
+  "name": "ImageVid IA",
+  "description": "Studio professionnel de création et génération d'images et de vidéos cinématographiques par intelligence artificielle multi-moteur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
